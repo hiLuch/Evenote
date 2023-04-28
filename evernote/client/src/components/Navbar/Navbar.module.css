@@ -1,0 +1,13 @@
+.navbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 25px; /* отступы между элементами в флексах*/
+}
+.logoutContainer {
+  width: 200px;
+  display: flex;
+  justify-content: space-evenly;
+  color: white;
+  align-items: center;
+}
